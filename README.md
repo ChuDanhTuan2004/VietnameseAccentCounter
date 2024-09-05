@@ -43,3 +43,29 @@ For the input string:
 
 ```plaintext
 hwfdawhwhcoomddfgwdc
+```
+
+The program will output:
+```
+Number of Vietnamese accented characters: 6
+```
+
+## Folder Structure
+```
+.
+├── src
+│   └── main
+│       └── java
+│           └── org
+│               └── example
+│                   ├── BoyerMoore.java
+│                   ├── TelexPattern.java
+│                   └── VietnameseAccentCounter.java
+├── .gitignore
+└── README.md
+
+```
+
+## Author
+# Tuấn
+Chu Danh Tuấn
