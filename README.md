@@ -67,5 +67,4 @@ Number of Vietnamese accented characters: 6
 ```
 
 ## Author
-# Tuấn
 Chu Danh Tuấn
